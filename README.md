@@ -65,7 +65,7 @@ Con el tiempo, iré reparando errores y actualizando el proyecto (por ejemplo, c
 ## Capturas de Pantalla
 
 
- <img src="https://github.com/haliercesr/pidogs2023/assets/115671323/3d91b497-366f-4cdc-ba08-23c2cc51c8d2" alt="alt text" width=225 height=400>
+ <img src="https://github.com/haliercesr/pidogs2023/assets/115671323/701d0eab-15be-4208-847d-649cca7844da" alt="alt text" width=225 height=400>
 
   <img src="https://github.com/haliercesr/rick_and_morty/assets/115671323/b984ce69-48fb-4db8-8fbd-d06d0ad939ac" alt="alt text" width=225 height=400>
 
