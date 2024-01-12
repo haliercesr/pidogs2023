@@ -2,9 +2,18 @@
 
 <h1 align="center">PI-DOGS SPA</h1>
 
-![image](https://github.com/haliercesr/rick_and_morty/assets/115671323/bf71719d-4a90-4527-9f14-764cd505fcef)
+![image](https://github.com/haliercesr/pidogs2023/assets/115671323/41f83fb5-af53-4b4a-ab2c-672035b74727)
 
-La aplicación es una interfaz de usuario desarrollada en React que permite a los usuarios explorar y obtener información sobre personajes de la popular serie "Rick and Morty". Los usuarios pueden buscar personajes por su ID y agregar sus personajes favoritos a una lista de favoritos. Además, la aplicación ofrece una sección de registro de usuarios y brinda información detallada sobre cada personaje, incluyendo su nombre, especie, origen y episodios en los que aparece. La interfaz es intuitiva y fácil de usar, con una barra de navegación que permite acceder a diferentes secciones de la aplicación, como la lista de personajes, detalles de personajes, favoritos y más. Las tecnologías principales utilizadas son React, React Router, Redux, PostgreSQL, Express y Sequalize.
+
+¡Hola a todos! 😃 Con mucho esfuerzo y dedicación, he terminado otro proyecto, estoy muy contento de haberlo logrado.
+
+Se trata de una single page application que consta de una Landing Page, Home Page, Detail Page y Form Page. Las tecnologías utilizadas fueron hashtag#React, hashtag#Redux, hashtag#NodeJS, hashtag#Express y hashtag#Sequelize.
+
+El flujo es el siguiente: El frontend se comunica con un servidor BBF (BACK FOR FRONT) robusto y modularizado. Este servidor se programó en Express y filtra la información que se consume desde una API externa y la devuelve al frontend. También puede guardar datos según se solicite en una base de datos relacional. El servidor y la base de datos se comunican a través del ORM Sequelize. La base de datos está hecha con hashtag#PostgreSQL y hashtag#pgAdmin. Para probar el servidor, se utilizó el software hashtag#Insomnia.
+
+Tanto el frontend, el servidor y la base de datos hacen sus propias validaciones y devuelven sus errores. Para manejar los errores se utilizaron promesas y hashtag#asyncawait. 🛠️
+
+Con el tiempo, iré reparando errores y actualizando el proyecto (por ejemplo, cambiar de idioma) e implementando mejores prácticas y nuevas tecnologías. 🚀
 
 ## Tabla de Contenidos
 
