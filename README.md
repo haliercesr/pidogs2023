@@ -75,10 +75,10 @@ Con el tiempo, iré reparando errores y actualizando el proyecto (por ejemplo, c
 
  <img src="https://github.com/haliercesr/pidogs2023/assets/115671323/d48259df-6e53-4e13-85c6-a5ad57387909" alt="alt text" width=225 height=400>
 
- <img src="https://github.com/haliercesr/rick_and_morty/assets/115671323/e46a491c-2f4e-441d-a121-4f213a69a28d" alt="alt text" >
+![image](https://github.com/haliercesr/pidogs2023/assets/115671323/951e9ead-9f5c-4477-860d-75837b046ed4)
 
 
-![image](https://github.com/haliercesr/rick_and_morty/assets/115671323/139b5717-83f8-4f6c-80d9-1b6c5b932489)
+![sdfsdfsdfsf](https://github.com/haliercesr/pidogs2023/assets/115671323/52c111ab-37ff-4c34-9881-d9bc58879412)
 
 
 
