@@ -7,11 +7,11 @@
 
 ¡Hola a todos! 😃 Con mucho esfuerzo y dedicación, he terminado otro proyecto, estoy muy contento de haberlo logrado.
 
-Se trata de una single page application que consta de una Landing Page, Home Page, Detail Page y Form Page. Las tecnologías utilizadas fueron hashtag#React, hashtag#Redux, hashtag#NodeJS, hashtag#Express y hashtag#Sequelize.
+Se trata de una single page application que consta de una Landing Page, Home Page, Detail Page y Form Page. Las tecnologías utilizadas fueron React, Redux, NodeJS, Express y Sequelize.
 
-El flujo es el siguiente: El frontend se comunica con un servidor BBF (BACK FOR FRONT) robusto y modularizado. Este servidor se programó en Express y filtra la información que se consume desde una API externa y la devuelve al frontend. También puede guardar datos según se solicite en una base de datos relacional. El servidor y la base de datos se comunican a través del ORM Sequelize. La base de datos está hecha con hashtag#PostgreSQL y hashtag#pgAdmin. Para probar el servidor, se utilizó el software hashtag#Insomnia.
+El flujo es el siguiente: El frontend se comunica con un servidor BBF (BACK FOR FRONT) robusto y modularizado. Este servidor se programó en Express y filtra la información que se consume desde una API externa y la devuelve al frontend. También puede guardar datos según se solicite en una base de datos relacional. El servidor y la base de datos se comunican a través del ORM Sequelize. La base de datos está hecha con PostgreSQL y pgAdmin. Para probar el servidor, se utilizó el software Insomnia.
 
-Tanto el frontend, el servidor y la base de datos hacen sus propias validaciones y devuelven sus errores. Para manejar los errores se utilizaron promesas y hashtag#asyncawait. 🛠️
+Tanto el frontend, el servidor y la base de datos hacen sus propias validaciones y devuelven sus errores. Para manejar los errores se utilizaron promesas y asyncawait. 🛠️
 
 Con el tiempo, iré reparando errores y actualizando el proyecto (por ejemplo, cambiar de idioma) e implementando mejores prácticas y nuevas tecnologías. 🚀
 
@@ -26,31 +26,27 @@ Con el tiempo, iré reparando errores y actualizando el proyecto (por ejemplo, c
 
 ## Funcionalidades
 
-**1.** Búsqueda de Personajes por ID: Los usuarios pueden ingresar un ID de personaje y buscar información sobre ese personaje específico.
+**1.** Búsqueda de perros por Raza: Los usuarios pueden ingresar el nombre de la raza y obtener información sobre la misma.
 
-**2.** Listado de Personajes: Se muestra una lista de personajes con sus nombres y algunas características principales.
+**2.** Listado de Razas: Se muestra una lista de perros con sus nombres y algunas características principales.
 
-**3.** Detalles de Personajes: Los usuarios pueden hacer clic en un personaje en la lista para ver información detallada, como su especie, origen y episodios en los que aparece.
+**3.** Detalles de una raza: Los usuarios pueden hacer clic en una raza en la lista para ver información detallada, como su altura, peso y años de vida y temperamentos.
 
-**4.** Agrega a Favoritos: Los usuarios pueden agregar personajes a su lista de favoritos para acceder rápidamente a ellos más tarde.
+**4.** Añadir de una raza: Los usuarios pueden añadir una raza que no se encuentre en el listado, la raza creada se guarda automaticamente en la base de datos.
 
-**5.** Barra de Navegación: Una barra de navegación proporciona enlaces a las diferentes secciones de la aplicación, como la página de inicio, detalles de personajes, favoritos y más.
+**5.** Barra de Navegación: Una barra de navegación proporciona enlaces a las diferentes secciones de la aplicación, como la página de inicio, crear una raza, buscar una raza, volver al inicio y salir.
 
-**6.** Reproducción de Sonido: Se reproduce un sonido al interactuar con ciertas acciones, como realizar una búsqueda o cerrar un elemento.
-
-**7.** Registro de Usuarios: Los usuarios pueden registrarse en la aplicación, lo que podría darles acceso a características adicionales en el futuro.
-
-**8.** Alertas Personalizadas: Se muestran alertas personalizadas en caso de errores o acciones importantes, como credenciales de inicio de sesión incorrectas.
+**8.** Alertas Personalizadas: Se muestran alertas personalizadas en caso de errores o acciones importantes, ver creacion de una nueva raza.
 
 **9.** Rutas y Enrutamiento: Se utiliza React Router para administrar y facilitar la navegación entre diferentes páginas y componentes de la aplicación.
 
-**10.** Gestión de Estado con Redux: Redux se utiliza para gestionar el estado global de la aplicación, como la lista de personajes y los favoritos.
+**10.** Gestión de Estado con Redux: Redux se utiliza para gestionar el estado global de la aplicación, como guardar informacion recibida del servidor para usarla en el front ya sea temperamentos de perros, razas, busqueda por nombre de raza y mas.
 
 **11.** Diseño Responsivo: La interfaz está diseñada para adaptarse a diferentes tamaños de pantalla y dispositivos, asegurando una experiencia de usuario consistente.
 
-**12.** Estilos Personalizados: Los estilos CSS personalizados se aplican para crear una apariencia agradable y coherente en toda la aplicación.
+**12.** Estilos Personalizados: Solo se utilizo CSS , los estilos CSS personalizados se aplican para crear una apariencia agradable y coherente en toda la aplicación.
 
-**13.** Interacción con API: La aplicación se conecta a una API externa para obtener información actualizada sobre los personajes de "Rick and Morty".
+**13.** Interacción con API: La aplicación se conecta a una API externa para obtener información actualizada sobre cada raza.Para cada solicitud de informacion del servidor a la API externa se utiliza una API KEY proporcionada por la misma una vez que se regista en el sitio
 
 ## Tecnologías Utilizadas
 
@@ -58,8 +54,9 @@ Con el tiempo, iré reparando errores y actualizando el proyecto (por ejemplo, c
 - React Router
 - Redux
 - Axios
-- Bootstrap
-- Expres
+- CSS
+- NodeJS
+- Express
 - PostgreSQL
 - Sequalize
 - Promises
@@ -67,7 +64,8 @@ Con el tiempo, iré reparando errores y actualizando el proyecto (por ejemplo, c
 
 ## Capturas de Pantalla
 
- <img src="https://github.com/haliercesr/rick_and_morty/assets/115671323/e980addd-d6ba-4e8d-972b-d439d607033e" alt="alt text" width=225 height=400>
+
+ <img src="https://github.com/haliercesr/pidogs2023/assets/115671323/71df3dae-d981-4175-88d0-2b1216823da2" alt="alt text" width=225 height=400>
 
   <img src="https://github.com/haliercesr/rick_and_morty/assets/115671323/b984ce69-48fb-4db8-8fbd-d06d0ad939ac" alt="alt text" width=225 height=400>
 
