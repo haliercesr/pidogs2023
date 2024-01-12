@@ -106,7 +106,7 @@ Con el tiempo, iré reparando errores y actualizando el proyecto (por ejemplo, c
 **3.** Para crear una raza hacer click en el boton "Create", completar todos los campos obligatorios y hacer click en crear.Para la imagen podes buscar el link de alguna imagen en la web.Si todo va bien te saldra el mensaje "el perro se creo con exito!". Para volver al menu principal seleccionar el boton "volver a inicio"
 
 <p align="center">
-  <img src="https://github.com/haliercesr/pidogs2023/assets/115671323/86ddb13b-2bf2-499b-aa0b-617e3cd546a8" alt="Inicio" width=400 height=200>
+  <img src="https://github.com/haliercesr/pidogs2023/assets/115671323/548eb5e2-15a6-4f7e-8371-482c3e16dc64" alt="Inicio" width=400 height=200>
 </p>
 
 
