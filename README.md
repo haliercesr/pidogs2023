@@ -69,7 +69,7 @@ Con el tiempo, iré reparando errores y actualizando el proyecto (por ejemplo, c
 
  <img src="https://github.com/haliercesr/pidogs2023/assets/115671323/701d0eab-15be-4208-847d-649cca7844da" alt="alt text" width=225 height=400>
 
- <img src="https://github.com/haliercesr/rick_and_morty/assets/115671323/b984ce69-48fb-4db8-8fbd-d06d0ad939ac" alt="alt text" width=225 height=400>
+ <img src="https://github.com/haliercesr/pidogs2023/assets/115671323/1cc99689-981c-4da1-bd4f-3370d954e005" alt="alt text" width=225 height=400>
 
  <img src="https://github.com/haliercesr/pidogs2023/assets/115671323/0ca4e267-771f-49a1-a32e-b14b48e010ad" alt="alt text" width=225 height=400>
 
