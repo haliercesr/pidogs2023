@@ -88,27 +88,32 @@ Con el tiempo, iré reparando errores y actualizando el proyecto (por ejemplo, c
 
 ## Guía de Uso
 
-**1.** Visita [https://versed-amount-production.up.railway.app/](https://versed-amount-production.up.railway.app/) en tu navegador.
+**1.** Visita [https://pidogs2023.vercel.app/](https://pidogs2023.vercel.app/) en tu navegador.
 
 <p align="center">
-  <img src="https://github.com/haliercesr/rick_and_morty/assets/115671323/72d0c707-3485-4fc1-a153-303005853600" alt="Inicio" width=400 height=200>
+  <img src="https://github.com/haliercesr/pidogs2023/assets/115671323/18f2e578-795e-4bca-84e9-6ff3bad54847" alt="Inicio" width=400 height=200>
 </p>
 
 
 
-**2.** Registrate con un email y una contraseña.
+**2.** Para ver los detalles de alguna raza hacer click en una card o insertar el nombre en el buscador y presionar "buscar"
 
 <p align="center">
-  <img src="https://github.com/haliercesr/rick_and_morty/assets/115671323/4ade80ad-1500-47d4-8870-67816b4300cc" alt="Inicio" width=400 height=200>
+  <img src="https://github.com/haliercesr/pidogs2023/assets/115671323/68786e2c-16c5-4cc9-b0ed-c287f3c28665" alt="Inicio" width=400 height=200>
 </p>
 
 
-**3.** Inicia sesion con tus datos de registro.
-
-**4.** Las instrucciones estan en la pantalla de inicio.
+**3.** Para crear una raza hacer click en el boton "Create", completar todos los campos obligatorios y hacer click en crear.Para la imagen podes buscar el link de alguna imagen en la web.Si todo va bien te saldra el mensaje "el perro se creo con exito!". Para volver al menu principal seleccionar el boton "volver a inicio"
 
 <p align="center">
-  <img src="https://github.com/haliercesr/rick_and_morty/assets/115671323/139b5717-83f8-4f6c-80d9-1b6c5b932489" alt="Inicio" width=400 height=200>
+  <img src="https://github.com/haliercesr/pidogs2023/assets/115671323/9e8e854f-63ae-4c5d-a00e-9e0d7b3e1f8c" alt="Inicio" width=400 height=200>
+</p>
+
+
+**4.** Para filtrar mejor las busquedas utilizar los filtros combinados.
+
+<p align="center">
+  <img src="https://github.com/haliercesr/pidogs2023/assets/115671323/d441c2c5-d7a3-442d-9ce1-92fd2a07533c" alt="Inicio" width=400 height=200>
 </p>
 
 
