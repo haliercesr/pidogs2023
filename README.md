@@ -36,17 +36,19 @@ Con el tiempo, iré reparando errores y actualizando el proyecto (por ejemplo, c
 
 **5.** Barra de Navegación: Una barra de navegación proporciona enlaces a las diferentes secciones de la aplicación, como la página de inicio, crear una raza, buscar una raza, volver al inicio y salir.
 
-**8.** Alertas Personalizadas: Se muestran alertas personalizadas en caso de errores o acciones importantes, ver creacion de una nueva raza.
+**6.** Filtros combinados: para poder filtrar los resultados por nombre de raza, ordenar segun el alfabeto o el peso, filtrar segun la api o razas creadas en la base de datos.
 
-**9.** Rutas y Enrutamiento: Se utiliza React Router para administrar y facilitar la navegación entre diferentes páginas y componentes de la aplicación.
+**7.** Alertas Personalizadas: Se muestran alertas personalizadas en caso de errores o acciones importantes, ver creacion de una nueva raza.
 
-**10.** Gestión de Estado con Redux: Redux se utiliza para gestionar el estado global de la aplicación, como guardar informacion recibida del servidor para usarla en el front ya sea temperamentos de perros, razas, busqueda por nombre de raza y mas.
+**8.** Rutas y Enrutamiento: Se utiliza React Router para administrar y facilitar la navegación entre diferentes páginas y componentes de la aplicación.
 
-**11.** Diseño Responsivo: La interfaz está diseñada para adaptarse a diferentes tamaños de pantalla y dispositivos, asegurando una experiencia de usuario consistente.
+**9.** Gestión de Estado con Redux: Redux se utiliza para gestionar el estado global de la aplicación, como guardar informacion recibida del servidor para usarla en el front ya sea temperamentos de perros, razas, busqueda por nombre de raza y mas.
 
-**12.** Estilos Personalizados: Solo se utilizo CSS , los estilos CSS personalizados se aplican para crear una apariencia agradable y coherente en toda la aplicación.
+**10.** Diseño Responsivo: La interfaz está diseñada para adaptarse a diferentes tamaños de pantalla y dispositivos, asegurando una experiencia de usuario consistente.
 
-**13.** Interacción con API: La aplicación se conecta a una API externa para obtener información actualizada sobre cada raza.Para cada solicitud de informacion del servidor a la API externa se utiliza una API KEY proporcionada por la misma una vez que se regista en el sitio
+**11.** Estilos Personalizados: Solo se utilizo CSS , los estilos CSS personalizados se aplican para crear una apariencia agradable y coherente en toda la aplicación.
+
+**12.** Interacción con API: La aplicación se conecta a una API externa para obtener información actualizada sobre cada raza.Para cada solicitud de informacion del servidor a la API externa se utiliza una API KEY proporcionada por la misma una vez que se regista en el sitio
 
 ## Tecnologías Utilizadas
 
@@ -67,12 +69,11 @@ Con el tiempo, iré reparando errores y actualizando el proyecto (por ejemplo, c
 
  <img src="https://github.com/haliercesr/pidogs2023/assets/115671323/701d0eab-15be-4208-847d-649cca7844da" alt="alt text" width=225 height=400>
 
-  <img src="https://github.com/haliercesr/rick_and_morty/assets/115671323/b984ce69-48fb-4db8-8fbd-d06d0ad939ac" alt="alt text" width=225 height=400>
+ <img src="https://github.com/haliercesr/rick_and_morty/assets/115671323/b984ce69-48fb-4db8-8fbd-d06d0ad939ac" alt="alt text" width=225 height=400>
 
-<img src="https://github.com/haliercesr/rick_and_morty/assets/115671323/59500a85-80bd-4fa7-9745-a682d919eee4" alt="alt text" width=225 height=400>
+ <img src="https://github.com/haliercesr/pidogs2023/assets/115671323/0ca4e267-771f-49a1-a32e-b14b48e010ad" alt="alt text" width=225 height=400>
 
-<img src="https://github.com/haliercesr/rick_and_morty/assets/115671323/aac5b95f-d244-4e6d-99cb-0540335113e3" alt="alt text" width=225 height=400>
- 
+ <img src="https://github.com/haliercesr/pidogs2023/assets/115671323/d48259df-6e53-4e13-85c6-a5ad57387909" alt="alt text" width=225 height=400>
 
  <img src="https://github.com/haliercesr/rick_and_morty/assets/115671323/e46a491c-2f4e-441d-a121-4f213a69a28d" alt="alt text" >
 
