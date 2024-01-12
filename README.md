@@ -1,6 +1,6 @@
 
 
-<h1 align="center">PI-DOGS SPA</h1>
+<h1 align="center">Proyecto Dogs SPA</h1>
 
 ![image](https://github.com/haliercesr/pidogs2023/assets/115671323/41f83fb5-af53-4b4a-ab2c-672035b74727)
 
